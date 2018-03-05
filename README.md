@@ -16,6 +16,6 @@
  [魔王魂](https://maoudamashii.jokersounds.com/music_rule.html)   
  
 参考サイト  
- [新・ゲームプログラミングの館](http://dixq.net/g/index.html)   
+ [新・ゲームプログラミングの館](http://dixq.net/g/index.html)    
  [シューティングゲーム入門](bituse.info/game/shot/)   
  
