@@ -6,6 +6,16 @@
 ライブラリにDXライブラリを使っていますので、幣ソースコードを動かしたい方はまずそちらを開発環境に導入してください。    
  [DXライブラリ](http://dxlib.o.oo7.jp/)   
 
+プレイ画像    
+１．    
+![スタート画面](https://github.com/eieio81810/20151209_ShootingGame/blob/master/ShootingGamePlayImages/20180305_ShootingGame1.png)    
+２．    
+![メイン](https://github.com/eieio81810/20151209_ShootingGame/blob/master/ShootingGamePlayImages/20180305_ShootingGame2.png)    
+３．    
+![ゲームクリア](https://github.com/eieio81810/20151209_ShootingGame/blob/master/ShootingGamePlayImages/20180305_ShootingGame3.png)    
+４．    
+![ゲームオーバー](https://github.com/eieio81810/20151209_ShootingGame/blob/master/ShootingGamePlayImages/20180305_ShootingGame4.png)    
+
 諸注意  
 未熟な頃に作ったものなので、階層分けがなされておりません。 
 また、設定ファイルに個人情報が含まれていたことを勘案し、アップロードを控えさせていただきました。  
